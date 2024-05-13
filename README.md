@@ -6,5 +6,5 @@ We use a jacobian approximation method to find the linearized dynamics of a non 
 We are able to show that even if the system is a black box, by sampling the forward rollout of the system we can get the gradient and optimize the controls.
 
 
-https://github.com/hussainsail2002/Adaptive-Gradient-fields-for-robot-planning-and-control/assets/32453875/82f92381-79dc-4e92-9ca5-f58555ac38c0
 
+![video1](https://github.com/hussainsail2002/Adaptive-Gradient-fields-for-robot-planning-and-control/assets/32453875/44627b4c-aabf-4cff-a8ba-3d38dc7c5a53)
